@@ -4,6 +4,13 @@ A simple and interactive dashboard built with **Streamlit**, **DuckDB**, and **P
 
 ![Dashboard Preview](dashboard.png)
 
+## 🌍 Live Demo
+
+Try the Burger Dashboard live on Streamlit Cloud:
+
+👉 [Click here to view the app](https://your-username-burger-dashboard.streamlit.app)
+
+
 ---
 
 ## 🚀 Features
